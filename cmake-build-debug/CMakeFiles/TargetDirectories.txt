@@ -1,0 +1,3 @@
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/cmake-build-debug/CMakeFiles/Debugger.dir
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

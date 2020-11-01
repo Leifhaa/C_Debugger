@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/main.c
+pgdbglog.h
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/pgdbglog.h
+stdio.h
+-
+stdio.h
+-
+errno.h
+-
+string.h
+-
+
+C:/Users/Leifh/OneDrive/Desktop/Skole/C_programming_assignments/Lection_7/PG3401-H20-Exercises-Lection7/Leksjon7/Debugger/pgdbglog.h
+
